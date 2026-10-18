@@ -15,4 +15,5 @@ Me! EveyKay: https://github.com/EveyKay
 - Code(Currently prototype): robotic_arm_prototype1.ino 
 - 3d step: robotic arm parts.step 
 - Onshape link: https://cad.onshape.com/documents/7578056127f9b35309dac334/w/92838ea42e14d4ceb1386002/e/095b8977167108deb00a51a3?renderMode=0&uiState=6ad4281e276830b495d9a6ae
+- bamboo plate: robotic arm parts.3mf 
 ## BOM 
