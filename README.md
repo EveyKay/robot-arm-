@@ -1,5 +1,6 @@
 # robot-arm-
 halflife week 2!!! this is my cad project for week 2 of halflife 
+<img width="1273" height="1220" alt="Hacklife week 2 _ Assembly 1 - Google Chrome 10_17_2026 10_02_13 PM" src="https://github.com/user-attachments/assets/b8be080e-ea00-461f-b2ba-e6f6eafef553" />
 
 ## Why a robot arm 
 I new from the start of the is project that I didn't want to do the beginer merble run because I have a lot of experiance with onshape. I choice to do a robotic arm because I thought that it would be hard because of the complexity of the ellbow joint but it's quite hackney so there is plenty of reffences to look to if I get stuck 
@@ -11,7 +12,7 @@ I wanted to not only further my cad ablitys in genral, but mostly I wanted to le
 Me! EveyKay: https://github.com/EveyKay 
 ## Files and links
 - BOM: 
-- Code(Currently prototype): 
-- 3d stl: 
+- Code(Currently prototype): robotic_arm_prototype1.ino 
+- 3d step: robotic arm parts.step 
 - Onshape link: https://cad.onshape.com/documents/7578056127f9b35309dac334/w/92838ea42e14d4ceb1386002/e/095b8977167108deb00a51a3?renderMode=0&uiState=6ad4281e276830b495d9a6ae
 ## BOM 
