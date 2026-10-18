@@ -72,3 +72,13 @@ First I spent some time fixing the design some more, I completely reworked it fr
 
 ![11543](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/6df3a4380b20a7c3caed98996de947fcc6fc2431f41753e2e8b4eca3c639728e.jpg)
 I finished the prototype coding! Once agian i used tinkercad because I am veruch a beginner in coding and starting with the blocks helps me a lot, i do plan to learn really code outside of tinkercade, but I didnt have enought time this week to properly start learning. The prototype code is just a bunch of potentiometers hooked up to each of the 3 motors but in the future I plan to use a stick and a potentiometer
+
+# change History 
+### October 17 
+- intial commit
+- intial setup of readme
+- added cad files
+### October 18 
+- Added boms
+- Added journal
+- updated readme 
