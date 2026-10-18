@@ -16,4 +16,14 @@ Me! EveyKay: https://github.com/EveyKay
 - 3d step: robotic arm parts.step 
 - Onshape link: https://cad.onshape.com/documents/7578056127f9b35309dac334/w/92838ea42e14d4ceb1386002/e/095b8977167108deb00a51a3?renderMode=0&uiState=6ad4281e276830b495d9a6ae
 - bamboo plate: robotic arm parts.3mf 
-## BOM 
+## Bill of Materials
+
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|------|-----|----------|-----------|------------|------|
+| Servo motors | 3 | Miuzei | $2.00 | $6.00 | [Link](https://a.co/d/061kzFds) |
+| Arduino Nano (brain) | 1 | Luirsay | $6.00 | $6.00 | [Link](https://a.co/d/061kzFds) |
+| Joysticks | 1 | Diyables | $3.50 | $3.50 | [Link](https://a.co/d/061kzFds) |
+| Estimated shipping (free shipping) | 1 | | | $0.00 | |
+| **Total** | | | | **$15.50** | |
+
+**Note:** The servo motors and the Arduino Nano (the brain) both come in large packs, so the packs themselves cost more than the per-item prices listed.
