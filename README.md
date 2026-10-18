@@ -1,2 +1,17 @@
 # robot-arm-
-halflife week 2!!!
+halflife week 2!!! this is my cad project for week 2 of halflife 
+
+## Why a robot arm 
+I new from the start of the is project that I didn't want to do the beginer merble run because I have a lot of experiance with onshape. I choice to do a robotic arm because I thought that it would be hard because of the complexity of the ellbow joint but it's quite hackney so there is plenty of reffences to look to if I get stuck 
+## Details of the arm 
+my robot arm has 3 joints, a sholder joint, an ellbow joint, and a manipulator joint. it uses three servos to move the parts and a stick plus a knob to control it. all the parts can be snaped together or screwed on with the screws that are provided in the pack of servos. (I haven't put it together yet so I will update if glue is needed). It uses an ardenio nano as the brain and source of power.
+## My goal with the robotic arm 
+I wanted to not only further my cad ablitys in genral, but mostly I wanted to learn how to make parts that don't require any glue because most of my past projects that I have caded have required glue. 
+## Author 
+Me! EveyKay: https://github.com/EveyKay 
+## Files and links
+- BOM: 
+- Code(Currently prototype): 
+- 3d stl: 
+- Onshape link: https://cad.onshape.com/documents/7578056127f9b35309dac334/w/92838ea42e14d4ceb1386002/e/095b8977167108deb00a51a3?renderMode=0&uiState=6ad4281e276830b495d9a6ae
+## BOM 
