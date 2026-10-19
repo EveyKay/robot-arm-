@@ -3,7 +3,7 @@ halflife week 2!!! this is my cad project for week 2 of halflife
 <img width="1273" height="1220" alt="Hacklife week 2 _ Assembly 1 - Google Chrome 10_17_2026 10_02_13 PM" src="https://github.com/user-attachments/assets/b8be080e-ea00-461f-b2ba-e6f6eafef553" />
 
 ## Why a robot arm 
-I new from the start of the is project that I didn't want to do the beginer merble run because I have a lot of experiance with onshape. I choice to do a robotic arm because I thought that it would be hard because of the complexity of the ellbow joint but it's quite hackney so there is plenty of reffences to look to if I get stuck 
+I new from the start of the is project that I didn't want to do the beginer merble run because I have a lot of experiance with onshape. I choice to do a robotic arm because I thought that it would be hard because of the complexity of the ellbow joint but it's quite hackneyed so there is plenty of reffences to look to if I get stuck 
 ## Details of the arm 
 my robot arm has 3 joints, a sholder joint, an ellbow joint, and a manipulator joint. it uses three servos to move the parts and a stick plus a knob to control it. all the parts can be snaped together or screwed on with the screws that are provided in the pack of servos. (I haven't put it together yet so I will update if glue is needed). It uses an ardenio nano as the brain and source of power.
 ## My goal with the robotic arm 
