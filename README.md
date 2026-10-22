@@ -18,13 +18,16 @@ Me! EveyKay: https://github.com/EveyKay
 - bamboo plate: [`robotic arm parts.3mf`](robotic arm parts.3mf)
 ## Bill of Materials
 
-| Item | Qty | Supplier | Cost/item | Total Cost | Link |
-|------|-----|----------|-----------|------------|------|
-| Servo motors | 3 | Miuzei | $2.00 | $6.00 | [Link](https://a.co/d/061kzFds) |
-| Arduino Nano (brain) | 1 | Luirsay | $6.00 | $6.00 | [Link](https://a.co/d/061kzFds) |
-| Joysticks | 1 | Diyables | $3.50 | $3.50 | [Link](https://a.co/d/061kzFds) |
-| Estimated shipping (free shipping) | 1 | | | $0.00 | |
-| **Total** | | | | **$15.50** | |
+| Item | Qty | Supplier | Cost/item | Total |
+| --- | --- | --- | --- | --- |
+| [Servo motors](https://a.co/d/061kzFds) | 3 | Miuzei | $2.00 | $6.00 |
+| [Arduino uno](https://www.amazon.com/dp/B0FMR3NRHH) | 1 | Luirsay | $6.00 | $6.00 |
+| [Stickes](https://www.amazon.com/dp/B0DQ37P5RQ) | 1 | Diyables | $3.50 | $3.50 |
+| [3d filament](https://us.store.bambulab.com/products/pla-basic-filament?id=41078274654344) | 1 | Bambu | $0.91 | $0.91 |
+| [driver for servos](https://www.amazon.com/dp/B0CRV3MK14) | 1 | huerew | $6.50 | $6.50 |
+| [knob](https://www.amazon.com/dp/B0F3GY3GWJ) | 1 | SYCZIOHU | $0.80 | $0.80 |
+| **Estimated total shipping, free shipping** | | | | **$0.00** |
+| **Total** | | | | **$23.71** |
 
 **Note:** The servo motors and the Arduino Nano (the brain) both come in large packs, so the packs themselves cost more than the per-item prices listed.
 ## Printing
